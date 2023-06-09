@@ -13,7 +13,7 @@
     font-size: 2em;
 }
 .dark {
-    background: url("images/Force_Drain.webp") no-repeat center fixed;
+    background: url("/images/Force_Drain.webp") no-repeat center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -21,14 +21,14 @@
     text-shadow: #ff0000 2px 2px 2px;
 }
 .light {
-    background: url("images/SoothingAura-SOC.webp") no-repeat center center fixed;
+    background: url("/images/SoothingAura-SOC.webp") no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
     color: #ffffff;
 }
 .grey {
-    background: url("images/aaron-oborn-grey-jedi-jpeg.jpg") no-repeat top center fixed;
+    background: url("/images/aaron-oborn-grey-jedi-jpeg.jpg") no-repeat top center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -67,7 +67,7 @@
 }
 body {
     background-color: #c4c4c4;
-    background: #c4c4c4 url("images/duel.jpg") no-repeat center center fixed;
+    background: #c4c4c4 url("/images/duel.jpg") no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;

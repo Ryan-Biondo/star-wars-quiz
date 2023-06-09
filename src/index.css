@@ -1,0 +1,74 @@
+.dark,
+.light,
+.grey {
+    background-size: cover;
+    height: 100vh;
+    width: 100vw;
+    text-shadow: #000000 5px 5px 5px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    font-size: 2em;
+}
+.dark {
+    background: url("images/Force_Drain.webp") no-repeat center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    color: #000000;
+    text-shadow: #ff0000 2px 2px 2px;
+}
+.light {
+    background: url("images/SoothingAura-SOC.webp") no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    color: #ffffff;
+}
+.grey {
+    background: url("images/aaron-oborn-grey-jedi-jpeg.jpg") no-repeat top center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    color: #a1a1a1;
+}
+.retake-quiz {
+    background-color: #000000;
+    color: #ffffff;
+    border: 1px solid #ffffff;
+    border-radius: 5px;
+    padding: 10px 20px;
+    margin: 50px;
+}
+.question-title {
+    font-size: 1.5em;
+    font-weight: bold;
+    /* text-align: center; */
+    margin: 30px 35px 40px;
+    color: #ffffff;
+}
+.answer {
+    padding: 40px;
+}
+.answer:hover {
+    background-color: #dbdbdbcb;
+    transition: 0.9s;
+}
+
+.answer-set > li.active {
+    background-color: #424242;
+    border-color: #969696;
+}
+.submit-button {
+    margin: 30px 20px;
+    padding: 20px;
+}
+body {
+    background-color: #c4c4c4;
+    background: #c4c4c4 url("images/duel.jpg") no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+}

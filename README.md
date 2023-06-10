@@ -112,3 +112,10 @@ All rights reserved. This project's code and content are protected under copyrig
 
 - OpenAI's GPT-4 model for generating engaging quiz questions.
 - Star Wars for the endless inspiration.
+
+# Art Credits
+
+- Aaron Oborn - Grey Jedi - https://legionreaper8881.artstation.com/projects/0nVkzG
+- Background - Star Wars Rebels
+- Dark Side - Force Drain - Star Wars Galaxies Trading Card Game
+- Jedi Master - Shintor Beerus

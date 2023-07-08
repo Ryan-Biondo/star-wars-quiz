@@ -4,9 +4,7 @@ import App from './App.tsx';
 import 'bootstrap/dist/css/bootstrap.css';
 import './index.css';
 
-ReactDOM.createRoot(
-  document.getElementById('star-wars-quiz-root') as HTMLElement
-).render(
+ReactDOM.createRoot(document.getElementById('root') as HTMLElement).render(
   <React.StrictMode>
     <App />
   </React.StrictMode>
